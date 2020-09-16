@@ -6,8 +6,8 @@
 
 ### Exercise 0.5: Single page app
 
-![exercise0.4](./part/Exercise 0.5.png)
+![exercise0.4](./Exercise_0.5.png)
 
 ### Exercise 0.6: New note (with SPA)
 
-![exercise0.4](./part/Exercise 0.6.png)
+![exercise0.4](./Exercise_0.6.png)
